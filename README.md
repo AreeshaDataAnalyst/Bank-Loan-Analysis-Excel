@@ -24,7 +24,7 @@ Built an interactive Excel dashboard to analyze 38.6k+ loan applications and eva
 - **Highest Risk**: Small Business and Renewable Energy loans show higher default rates
 
 ## 📷 Dashboard Preview
-![Bank Loan Dashboard](Bank Loan Summary Dashboard.jpg)
+![Bank Loan Dashboard]([Bank Loan Summary Dashboard.jpg](https://github.com/AreeshaDataAnalyst/Bank-Loan-Analysis-Excel/blob/main/Bank%20Loan%20Summary%20Dashboard.jpg)
 
 ## 💡 How to Use
 1. Download `financial_loan_data_excel.xlsx` from this repo
